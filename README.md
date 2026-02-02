@@ -27,7 +27,10 @@ npm install -g @github/copilot
 
 ## 啟動專案
 
-- 使用 VSCode 開啟已建好了 `my-angular-app` 專案
+- 下載 `my-angular-app` 專案
+```bash
+git clone https://github.com/c1985925/my-angular-app.git
+```
   
 - 執行以下更新專案套件
 ```bash
