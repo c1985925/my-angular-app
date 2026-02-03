@@ -2,8 +2,8 @@
 
 ## 需求軟體
 
-- [VSCode](https://code.visualstudio.com/download)
-- [VSCode Insider](https://code.visualstudio.com/insiders)
+- [VSCode](https://code.visualstudio.com/download) - 穩定版
+- [VSCode Insider](https://code.visualstudio.com/insiders) - 預覽版，但保哥會用這個版本，請大家下載務必下載這個版本。
 - [Node.js](https://nodejs.org/en/download) - v22.x 以上版本 （支援 Angular 與 Github Copilot Cli）
   - 驗證 Node.js 版本 `node -v`。
 
